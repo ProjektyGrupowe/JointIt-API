@@ -58,15 +58,15 @@ To get a local copy up and running follow these simple steps:
 #### For Local
 1. Clone the repo
 ```sh
-git clone https://github.com/ProjektyGrupowe/JoinItAPI.git
+git clone https://github.com/ProjektyGrupowe/JoinIt-API.git
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-For usage examples please refer to the [Live Documentation in API](https://joinitwebsite.azurewebsites.net/swagger-ui/)
+For usage examples please refer to the [Live Documentation in API](https://joinitwebsite.azurewebsites.net/swagger-ui/) - not working yet - azure issues
 
 ## WWW
-* API: https://joinitwebsite.azurewebsites.net/
+* API: https://joinitwebsite.azurewebsites.net/ - not working yet
 
 ## Frontend
 * Github: https://github.com/ProjektyGrupowe/JointIt-WebsiteUI
